@@ -1,0 +1,30 @@
+Logfile initialized
+[INFO] logfile = C:\Users\Josh\My Documents\Titanium Studio Workspace\Enter the Matrix\build.log
+[DEBUG] C:\Users\Josh\AppData\Roaming\Titanium\mobilesdk\win32\1.8.2\android\builder.py simulator Hello E:\Android\android-sdk C:\Users\Josh\My Documents\Titanium Studio Workspace\Enter the Matrix com.jebussaves.helloworld 8 WVGA854
+[INFO] Building Hello for Android ... one moment
+[INFO] Titanium SDK version: 1.8.2 (02/23/12 17:46 59b3a90)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.021000 seconds on emulator to get ready
+[DEBUG] com.jebussaves.helloworld installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: C:\Users\Josh\My Documents\Titanium Studio Workspace\Enter the Matrix\Resources\determinant.js => C:\Users\Josh\My Documents\Titanium Studio Workspace\Enter the Matrix\build\android\bin\assets\Resources\determinant.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-long-land-hdpi splash screen at C:\Users\Josh\My Documents\Titanium Studio Workspace\Enter the Matrix\Resources\android\images\res-long-land-hdpi\default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at C:\Users\Josh\My Documents\Titanium Studio Workspace\Enter the Matrix\Resources\android\images\res-long-land-ldpi\default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at C:\Users\Josh\My Documents\Titanium Studio Workspace\Enter the Matrix\Resources\android\images\res-long-port-hdpi\default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at C:\Users\Josh\My Documents\Titanium Studio Workspace\Enter the Matrix\Resources\android\images\res-long-port-ldpi\default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at C:\Users\Josh\My Documents\Titanium Studio Workspace\Enter the Matrix\Resources\android\images\res-notlong-land-hdpi\default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at C:\Users\Josh\My Documents\Titanium Studio Workspace\Enter the Matrix\Resources\android\images\res-notlong-land-ldpi\default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at C:\Users\Josh\My Documents\Titanium Studio Workspace\Enter the Matrix\Resources\android\images\res-notlong-land-mdpi\default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at C:\Users\Josh\My Documents\Titanium Studio Workspace\Enter the Matrix\Resources\android\images\res-notlong-port-hdpi\default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at C:\Users\Josh\My Documents\Titanium Studio Workspace\Enter the Matrix\Resources\android\images\res-notlong-port-ldpi\default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at C:\Users\Josh\My Documents\Titanium Studio Workspace\Enter the Matrix\Resources\android\images\res-notlong-port-mdpi\default.png
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... Hello
+[INFO] Launching application ... Hello
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.jebussaves.helloworld/.HelloActivity }
+
